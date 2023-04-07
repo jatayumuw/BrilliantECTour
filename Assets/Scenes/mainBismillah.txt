@@ -1,0 +1,24 @@
+1032
+<<<<<<< Updated upstream
+  m_LocalRotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 0, y: 0, z: -0.059}
+=======
+  m_LocalRotation: {x: 0.02400598, y: -0.7066981, z: -0.70670027, w: 0.024006601}
+  m_LocalPosition: {x: 0, y: 0, z: -0.051999982}
+>>>>>>> Stashed changes
+
+12344
+<<<<<<< Updated upstream
+  m_LocalRotation: {x: 0.04536297, y: 0, z: 0, w: 0.9989706}
+  m_LocalPosition: {x: 20, y: 0, z: 30}
+=======
+  m_LocalRotation: {x: 0.079328984, y: 0, z: 0, w: 0.9968485}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
+
+12356
+<<<<<<< Updated upstream
+  m_LocalEulerAnglesHint: {x: 5.2, y: 0, z: 0}
+=======
+  m_LocalEulerAnglesHint: {x: 9.1, y: 0, z: 0}
+>>>>>>> Stashed changes
